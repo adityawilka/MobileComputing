@@ -1,0 +1,15 @@
+com/azhar/kisahnabi/BuildConfig.java
+ com.azhar.kisahnabi.BuildConfig
+com/azhar/kisahnabi/activities/MainActivity.java
+ com.azhar.kisahnabi.activities.MainActivity
+com/azhar/kisahnabi/model/ModelMain.java
+ com.azhar.kisahnabi.model.ModelMain
+com/azhar/kisahnabi/adapter/MainAdapter.java
+ com.azhar.kisahnabi.adapter.MainAdapter
+ com.azhar.kisahnabi.adapter.MainAdapter$1
+ com.azhar.kisahnabi.adapter.MainAdapter$onSelectData
+com/azhar/kisahnabi/holder/MainHolder.java
+ com.azhar.kisahnabi.holder.MainHolder
+com/azhar/kisahnabi/activities/DetailActivity.java
+ com.azhar.kisahnabi.activities.DetailActivity
+ com.azhar.kisahnabi.activities.DetailActivity$1
